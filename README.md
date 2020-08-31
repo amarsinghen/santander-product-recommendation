@@ -1,5 +1,5 @@
-# santander-product-recommendation
-Santander Product Recommendation Competition, Kaggle
+# santander-product-recommendation for the customers using xgboost
+
 
 This repo has 3 jupyter notebooks:
 1. Santander_Product_Recommendation.ipynb - Preliminary EDA and basic modeling try outs
